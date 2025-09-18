@@ -1,1 +1,3 @@
-:EULRu>i96h
+# Password to install lib
+> :EULRu>i96h
+-----

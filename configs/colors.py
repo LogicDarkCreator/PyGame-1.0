@@ -1,0 +1,4 @@
+white = 0xFFFFFF
+black = 0x000000
+red = 0xFF0000
+blue = 0x0023FF
